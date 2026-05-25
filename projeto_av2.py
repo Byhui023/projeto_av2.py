@@ -1,3 +1,8 @@
+# Colégio Unasp-EC
+#Turma: 2°A
+#Disciplina: POO
+#ALuno: Bianca Vitória Guimaro Dias
+#25.05
 class Livro:
     def __init__(self, titulo, autor):
         self.__titulo = titulo
